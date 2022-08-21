@@ -16,7 +16,7 @@
 
 #### Now
 
-- :fire: Interested in DevOps and Data engineering;
+- :fire: Interested in DevOps and Big Data;
 - :calendar: Looking for contributing to PHP based open source projects 
 
 #### Bio
@@ -40,7 +40,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamransarwar47&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
+<b>&#128200; Dynamic Programming</b>
 <p float="left">
 <img height="180em" src="https://leetcard.jacoblin.cool/kamransarwar47?theme=light&font=Karma&ext=contest" />
 </p>
