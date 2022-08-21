@@ -21,6 +21,7 @@
 
 #### Bio
 
+- 🎓 Masters degree in Computer Sciences from Virtual University of Pakistan
 - 🏢 I'm currently working at **EMPG Labs**
 - ⚙️ I use daily: `.php`, `.js`, `.py`
 - 🌱 Learning all about **DevOps**
@@ -34,14 +35,14 @@
 
 #### ⚡ Some amazing projects I worked on
 
-- ZAMEEN PROPERTY PORTAL: [WEBSITE](https://www.zameen.com/)
-- PRINTPLACE WEBSITE: [WEBSITE](https://printplace.be/)
-- PUNJAB FOOD AUTHORITY PORTAL: [WEBSITE](https://cell.pfa.gop.pk/)
-- AMERICAN HOSPITAL DUBAI EVENTS PROTAL: [WEBSITE](https://events.ahdubai.com/)
-- MISENTINEL WORKFORCE MANAGEMENT APPLICATION: [WEBSITE](https://misentinel.co.uk/)
-- STARTLYNX ACCOUNTING APPLICATION: [WEBSITE](https://accounts.stardevelopers.pk/)
+- [Zameen Property Portal](https://www.zameen.com/)
+- [PrintPlace Website](https://printplace.be/)
+- [Punjab Food Authority Portal](https://cell.pfa.gop.pk/)
+- [AHD Events Mangement System](https://events.ahdubai.com/)
+- [MiSentinel Workforce Management Application](https://misentinel.co.uk/)
+- [Starlynx Accounting Application](https://accounts.stardevelopers.pk/)
 
-#### Development Stuffs:
+#### Development Stuffs
 
 <b>⚡ Github Stats</b>
 <p float="left">
