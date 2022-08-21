@@ -34,7 +34,12 @@
 
 #### Some amazing projects I worked on
 
-▶︎ Reach me: [zameen.com](https://www.zameen.com/)
+- ZAMEEN PROPERTY PORTAL: [WEBSITE](https://www.zameen.com/)
+- PRINTPLACE WEBSITE: [WEBSITE](https://printplace.be/)
+- PUNJAB FOOD AUTHORITY PORTAL: [WEBSITE](https://cell.pfa.gop.pk/)
+- AMERICAN HOSPITAL DUBAI EVENTS PROTAL: [WEBSITE](https://events.ahdubai.com/)
+- MISENTINEL WORKFORCE MANAGEMENT APPLICATION: [WEBSITE](https://misentinel.co.uk/)
+- STARTLYNX ACCOUNTING APPLICATION: [WEBSITE](https://accounts.stardevelopers.pk/)
 
 #### Development Stuffs:
 
