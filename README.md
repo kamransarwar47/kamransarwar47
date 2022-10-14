@@ -25,7 +25,7 @@
 - 🏢 I'm currently working at **EMPG Labs**
 - ⚙️ I use daily: `.php`, `.js`, `.py`
 - 🌱 Learning all about **DevOps** and **BigData**
-- 💬 Ping me about **PHP**, **Laravel**, **RestAPIs**, **MySQL**
+- 💬 Ping me about **PHP**, **Laravel**, **Python**,  **RestAPIs**, **MySQL**
 - 📫 Reach me: [kamransarwar47@gmail.com](mailto:kamransarwar47@gmail.com)
 - 📝 Checkout my [Resume](files/Kamran_Sarwar_Software_Engineer_Resume.pdf).
 
