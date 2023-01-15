@@ -47,9 +47,9 @@
 <b>⚡ Github Stats</b>
 <p float="left">
 
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamransarwar47&show_icons=true)
+![Kamran's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamransarwar47&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamransarwar47&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kamransarwar47&layout=compact)
   
 </p>
 
